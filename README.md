@@ -17,7 +17,7 @@ Sample images
 
 Output
 
-![alt text](https://github.com/raj-shah14/Find-Phone-Challenge/blob/master/Find_Phone/images_106.jpg)![alt_text](https://github.com/raj-shah14/Find-Phone-Challenge/blob/master/Find_Phone/images_107.jpg)![alt text](https://github.com/raj-shah14/Find-Phone-Challenge/blob/master/Find_Phone/images_108.jpg)
+![alt text](https://github.com/raj-shah14/Find-Phone-Challenge/blob/master/Find_Phone/image_106.jpg)![alt_text](https://github.com/raj-shah14/Find-Phone-Challenge/blob/master/Find_Phone/image_107.jpg)![alt text](https://github.com/raj-shah14/Find-Phone-Challenge/blob/master/Find_Phone/image_108.jpg)
 
 ## Result
 ![alt text](https://github.com/raj-shah14/Find-Phone-Challenge/blob/master/Find_Phone/results.jpg)
