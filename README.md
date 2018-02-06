@@ -26,3 +26,5 @@ After training the model, it is saved and modelname.ckpt, model.index and model.
 ## Result
 ![alt text](https://github.com/raj-shah14/Find-Phone-Challenge/blob/master/Find_Phone/results.jpg)
 
+## Reference
+To learn more about Tensor flow Object Detection API, click [here](https://pythonprogramming.net/introduction-use-tensorflow-object-detection-api-tutorial/)
