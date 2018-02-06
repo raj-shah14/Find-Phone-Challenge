@@ -11,11 +11,13 @@ After Training for 1700 time-steps
 ![alt text](https://github.com/raj-shah14/Find-Phone-Challenge/blob/master/Train_Phone/graph_loss.jpg)
 
 ## Testing
-Sample images
+After training the model, it is saved and modelname.ckpt, model.index and model.meta file are used to generate the frozen_inference.pb file which is used for testing. The inference file is generated using export_inference_graph.py file.
+
+### Sample images
 
 ![alt text](https://github.com/raj-shah14/Find-Phone-Challenge/blob/master/Find_Phone/106.jpg)![alt t7xt](https://github.com/raj-shah14/Find-Phone-Challenge/blob/master/Find_Phone/107.jpg)![alt text](https://github.com/raj-shah14/Find-Phone-Challenge/blob/master/Find_Phone/108.jpg)
 
-Output
+### Output
 
 ![alt text](https://github.com/raj-shah14/Find-Phone-Challenge/blob/master/Find_Phone/image_106.jpg)![alt_text](https://github.com/raj-shah14/Find-Phone-Challenge/blob/master/Find_Phone/image_107.jpg)![alt text](https://github.com/raj-shah14/Find-Phone-Challenge/blob/master/Find_Phone/image_108.jpg)
 
