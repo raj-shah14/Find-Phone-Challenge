@@ -1,5 +1,6 @@
 # Find-Phone-Challenge
 The task was to find the location of cell phone in a given image
+Download the Tensorflow Object Detection API from [here](https://github.com/tensorflow/models/tree/master/research/object_detection)
 
 ## Data Preprocessing
 The dataset consists of 134 images and text file with labels for each image. Initial step was to create a tfrecord file for the data and splitting the data into train and test. Record file is generated using the tfrecord.py file. The record file generated is then used in the model config file as input along with *.pbtxt file which contains list of all the objects to be detected. You can find the config file in training folder. 
