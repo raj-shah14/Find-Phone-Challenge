@@ -1,5 +1,6 @@
 # Find-Phone-Challenge
-The task was to find the location of cell phone in a given image
+The task was to find the location of cell phone in a given image.
+
 Download the Tensorflow Object Detection API from [here](https://github.com/tensorflow/models/tree/master/research/object_detection)
 
 ## Data Preprocessing
