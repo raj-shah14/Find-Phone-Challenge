@@ -13,7 +13,7 @@ After Training for 1700 time-steps
 ![alt text](https://github.com/raj-shah14/Find-Phone-Challenge/blob/master/Train_Phone/graph_loss.jpg)
 
 ## Testing
-After training the model, it is saved and modelname.ckpt, model.index and model.meta file are used to generate the frozen_inference.pb file which is used for testing. The inference file is generated using export_inference_graph.py file.
+After training the model, it is saved and modelname.ckpt, model.index and model.meta file are used to generate the frozen_inference.pb file which is used for testing. The inference file is generated using export_inference_graph.py file. The files is present in Tensorflow object detection API folder.
 
 ### Sample images
 
